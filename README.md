@@ -1,3 +1,7 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmaGnanapriya)](https://github.com/PadmaGananapriya/github-readme-stats) ![Rivindu's github stats](https://github-readme-stats.vercel.app/api?username=PadmaGnanapriya&show_icons=true)       <Br>
+
+
 # AngularLearning
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
